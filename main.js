@@ -21,7 +21,7 @@ function showhtml() {
 }
 
 function showcss() {
-  document.getElementById('fig').src = 'css.png'
+  document.getElementById('fig').src = 'CSS.png'
   document.getElementById('desc').innerHTML =
     '<b>CSS3</b>는 HTML 문서의 스타일을 지정하기 위한 언어이다.'
 }
